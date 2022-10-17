@@ -16,7 +16,7 @@ import java.util.List;
 public class MainActivity2 extends AppCompatActivity {
 
     String json_string = "{\n" +
-            "  \"title\":\"JSON Parser Tutorial\",\n" +
+            "  \"title\":\"JSON Android Tutorial\",\n" +
             "  \"array\":[\n" +
             "    {\n" +
             "    \"company\":\"Google\"\n" +
